@@ -1,0 +1,3 @@
+Follow TechInfo YT Youtube chanel for learning Material UI
+
+1. we need to install material ui package befor using MUI
